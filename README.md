@@ -1,4 +1,5 @@
 **Sri Jaya Sathyavathi**
+
 **Data Analyst | Machine Learning | Python Developer**
 - 👀 I’m interested in Data Analysis, Data Engineering, Machine Learning, Natural Language Processing and aritificial intelligence
 - 🌱 I’m currently learning Advance Data Science and Analysis, SQL, Python and Statistics
